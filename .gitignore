@@ -1,0 +1,10 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Compiler download and temp files
+compiler/
+*.zip
